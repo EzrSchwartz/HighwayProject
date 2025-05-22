@@ -19,12 +19,19 @@ I'm designing: the PCB to incorporate  all of the sensors will be incorporated i
 
 BOM
 Main Brain --> raspberry pi 4 $50
+
 Eye tracking camera --> Arducam 8MP IMX219 $25
+
 I have the forward facing camera (I will repurpose a high quality FPV camera)
+
 IMU Sensor --> Adafruit Breakout board IMU fusion $25
+
 Power Supply --> 5V 4A USB-C car charger or buck converter $15
+
 OBD adapter --> usb elm327 $25
+
 PCB estimate $75
+
 Misc $25
 
 Total --> $340
